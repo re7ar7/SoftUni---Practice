@@ -1,3 +1,3 @@
-a = 3 % 10
+personal_data = {'name': 'Daniel', 'age': 23, 'city': 'Varna'}
 
-print(a)
+print(personal_data['age'])
